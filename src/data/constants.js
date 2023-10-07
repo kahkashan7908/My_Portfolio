@@ -1,5 +1,5 @@
 export const Bio = {
-    name: "Khakkashan khatoon",
+    name: "Khakashan khatoon",
     roles: [
       "Full Stack Developer",
       "Web developer",
@@ -165,7 +165,7 @@ export const Bio = {
         "This is a web-based application that enables students to check their exam results online. New users must create an account by signing up and then log in to the system. The application offers login, logout, and signup features and utilizes the Django web framework with a MySQL database for user data management. Additionally, fake student information has been added to the database using the Faker module. The frontend is designed with HTML, CSS, and JavaScript.",
       image:
         "https://user-images.githubusercontent.com/109336765/272915667-1356ddb2-128b-43bb-8120-a49fe07d0043.PNG",
-      tags: ["python", "django", "Mysql", "HTML","CSS","Bootstrap"],
+      tags: ["Python", "Django", "Mysql", "HTML","CSS","Bootstrap"],
       category: "web app",
       github: "https://github.com/kahkashan7908/examination_result_portal",
       
@@ -180,7 +180,7 @@ export const Bio = {
         "This is a web-based application that Implements the functioning of an E-commerce website that performs various functions like login, logout, registration, add to cart, billing and much more. For backend part, it is using web framework as Python Django and database as sqlite3. The frontend is designed using HTML,CSS and JavaScript.",
       image:
         "https://user-images.githubusercontent.com/109336765/272946360-7586107f-346c-4261-b131-f94f37e79a5f.PNG",
-      tags: ["python", "django", "Sqlite3", "Jvascript","HTML","CSS","Bootstrap",],
+      tags: ["Python", "Django", "Sqlite3", "Javascript","HTML","CSS","Bootstrap",],
       category: "web app",
       github: "https://github.com/kahkashan7908/Ecommerce_sites",
       
@@ -194,7 +194,7 @@ export const Bio = {
         "Developed a full-stack web application that tracks macro nutrients and calorie intake, and monitors calorie consumption.",
       image:
         "https://user-images.githubusercontent.com/109336765/272884962-d3277ef2-9a46-4b53-9746-c23b9ce5003e.PNG",
-      tags: ["python", "django", "Sqlite3", "Javascript", "Chart.Js"],
+      tags: ["Python", "Django", "Sqlite3", "Javascript", "Chart.Js"],
       category: "web app",
       github: "https://github.com/kahkashan7908/Calorie_Tracker/tree/main",
       
@@ -208,7 +208,7 @@ export const Bio = {
       description:"This is a web-based application, and it is a sample frontend page of a Ecommerce. You can view this page by clicking on the 'Live' button.",
       image:
         "https://user-images.githubusercontent.com/109336765/272955858-4ce3d106-6428-4a93-b2a7-6fa418c690e1.PNG",
-      tags: ["HTML","CSS","Jvascript"],
+      tags: ["HTML","CSS","Javascript"],
       category: "Frontend",
       github: "https://github.com/kahkashan7908/E-Commerce-shopping-website",
       webapp: "https://kahkashan7908.github.io/E-Commerce-shopping-website/",
@@ -221,7 +221,7 @@ export const Bio = {
       description:"This is a web-based application, and it is a sample frontend page of a food app. You can view this page by clicking on the 'Live' button.",
       image:
         "https://user-images.githubusercontent.com/109336765/272952048-e9e4c7bb-b85f-4f78-b3c1-a20554230b47.PNG",
-      tags: ["HTML","CSS","Jvascript"],
+      tags: ["HTML","CSS","Javascript"],
       category: "Frontend",
       github: "https://github.com/kahkashan7908/food-website",
       webapp: "https://kahkashan7908.github.io/food-website/",
